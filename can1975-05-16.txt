@@ -1,0 +1,75 @@
+Can
+May 16th, 1975
+Pier Pavilion
+Hastings, UK
+
+-This is a speed corrected and re-assembled version of the two previous torrents of this show by Carville and Vierstein.
+-If anyone wants to offer up their own version, please do so!
+-This is my first try at speed correction, so if I fucked it up royally, let me know.
+
+Lineages and stuff:
+-Possibly recorded with AKG mics from the mixing desk by the soundman. I'm *NOT* sure, though.
+-aud>?>cdr>eac(secure mode)>flac(level 8) (carville)
+-?>shn (vierstein)
+
+Editing:
+-Padded Bel Air/Dizzy Dizzy from the Vierstein fileset in TLH. d1t01 did not need to be padded, and disc two only needed post-padding, which is irrelevant since I did not use the end of that source.
+--The disc change was not continuous so I did not use fix mode when padding Bel Air/Dizzy Dizzy
+-increased the speed of the Vierstein tracks by 1.04927 percent to match Carville's source in Audacity
+-crossfaded during the crowd noise between Evening Glory and Pinch in Audacity (I wanted to use as much of the superior Carville source as possible)
+-split the new tracks in CDWave
+-encoded to flac with Flac Frontend
+
+Set One:
+01. Chain Reaction - 14:45
+02. Bel Air - 7:22
+03. -> Dizzy Dizzy - 10:14
+
+Set Two:
+04. Full Moon On The Highway - 15:51
+05. -> Evening Glory - 4:34
+06. Pinch - 21:15
+07. -> Meadow Sweet - 9:56
+08. -> The Gypsy - 9:19
+
+TRT: 1:33:16
+
+As always, there is confusion as to the date of this show. AFAIK, it is May 16th.
+
+Holger Czukay
+Michael Karoli
+Jaki Liebezeit
+Irmin Schmidt
+
+Relevant commentary:
+
+hbob had this to say about the sources matching up over at dime:
+#1312952 by hbob999 at 2006-09-11 05:04:34 GMT
+	having examined the two torrents, there is definitely overlap between the two.  the songs map out like this:
+
+Vierstein CD1:
+1. Chain Reaction
+2. Bel Air (to 7:31)
+  Dizzy Dizzy (7:31 to end)
+
+Vierstein CD2:
+1. Full Moon on the Highway; Evening Glory (to 20:34)
+   Pinch; Meadow Sweet (fades) (20:34 to end)
+
+Carville CD:
+1. Pinch (to 21:19)
+   Meadow Sweet (21:19 to 31:03)
+   The Gypsy (ends with crowd noise) (31:03 to end)
+
+the part of Vierstein disc 2 from 20:34 to the end is a truncated version of the Carville torrent, fading a few seconds before the beginning of "The Gypsy."  the two torrents are off-pitch to one another by over a quarter-tone; the difference between the Toll track times and my approximations may be explained by the apparent slowness of the tape speed on the Vierstein torrent.  the sound quality of the Carville torrent is better than the Vierstein material.  i reckon i'll do a pitch-corrected version presently.
+
+-rhinowing, January 5th, 2007.
+
+Can1975-05-16d1t01.flac:9fe4d8415fba77c85bfa88b329133cc6
+Can1975-05-16d1t02.flac:7928e1997d023bf2f7802fd37891ab6e
+Can1975-05-16d1t03.flac:e6c060ecf0b57f93c0e3b16a0d4d64f1
+Can1975-05-16d2t01.flac:e069713088ab5bcba2e471ea19f594ef
+Can1975-05-16d2t02.flac:5d20209191a2f30b14b3649ab103c83d
+Can1975-05-16d2t03.flac:052b59b061541b52252f08d2b56ead09
+Can1975-05-16d2t04.flac:a1802858d1f1d84e039e58abfe7dd932
+Can1975-05-16d2t05.flac:6a807a6b08f118206afd032480aa0542
